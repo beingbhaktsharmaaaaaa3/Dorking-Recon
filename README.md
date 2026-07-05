@@ -13,7 +13,7 @@
 
 ## ⚡ Live Website
 
-> **[🔗 View Live Website]()**
+> **[🔗 View Live Website](https://beingbhaktsharmaaaaaa3.github.io/Dorking-Recon-Search-Engine/)**
 
 Turn one or more target domains into ready-to-run search-operator queries across 23 categories — plus a guided workflow, saved sessions, favorites, search history, GitHub advanced search, and one-click multi-format export. Everything runs in the browser: no backend, no build step, no dependencies beyond two Google Fonts. Progress is stored in `localStorage` — nothing is sent anywhere except the searches you choose to open.
 
